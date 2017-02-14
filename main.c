@@ -35,7 +35,7 @@ the following steps for this exercise:
 
 //Define my constants
 #define TERMS 20				//The number of terms in the series to calculate.
-#define TEST_REPEAT_COUNT 10000	//How many times should we repeat the factorial processes tests
+#define TEST_REPEAT_COUNT 20000	//How many times should we repeat the factorial processes tests
 
 //Declare my function prototypes
 void displayWelcome();		//A Welcome Message
